@@ -1,5 +1,5 @@
 title = "lol ça marche"
-date = ptdr
+date = {{ .Date }}
 
 severity = "degraded-performance"
 affectedsystems = ["syswap.xyz"]
