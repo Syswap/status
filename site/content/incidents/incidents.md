@@ -1,4 +1,3 @@
-+++
 title = "{{ replace .TranslationBaseName "-" " " | title }}"
 date = {{ .Date }}
 
@@ -10,4 +9,3 @@ affectedsystems = ["syswap.xyz"]
 
 
 resolved = false
-+++
